@@ -259,4 +259,4 @@ This repository serves as the official landing page for AntiDot. The software is
 **Get the most recent version of AntiDot today!**
 
 ---
-**Last updated:** 2026-09-30 20:32:42 UTC
+**Last updated:** 2026-10-01 00:21:25 UTC
